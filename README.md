@@ -18,6 +18,7 @@ Created the below questions that are commonly asked regarding the data available
 * Which month had the highest conversion rate?  
   
 ### Transform Data
+Code can be found in CSVToDatabase.py
 Loaded the data in a Python environment within Visual Studio Code. Connected SQLite3 as it is small and personal after extracting and transforming data in Python.
 
 ### Create Visualization  
