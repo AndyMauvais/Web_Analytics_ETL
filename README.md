@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/afranur/web-analytics-dataset/
   
 ## Project Steps  
 ### Setting Project Scope & Data Source  
-I found my data source using Kaggle in the link provided above. The data contains website analytics including monthly user count, session duration, and conversion information. The data seems to have already been cleaned.   
+The data contains website analytics including monthly user count, session duration, and conversion information. The data seems to have already been cleaned.   
 #### Questions to Answer  
 Created the below questions that are commonly asked regarding the data available:  
 * How many users visited the website in 2020?  
