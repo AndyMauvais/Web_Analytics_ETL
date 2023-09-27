@@ -24,7 +24,7 @@ Loaded the data in a Python environment within Visual Studio Code. Connected SQL
 ### Create Visualization  
 Created a visualization that answers the questions for this project.  
 https://public.tableau.com/app/profile/andy.mauvais/viz/WebsiteAnalytics_ETL/2019-2020Web_Analytics      
-![Visualization](Images/2019-2020%Web_Analytics.png)    
+![Visualization](Images/2019-2020Web_Analytics.png)    
   
 #### Insights
 **For this data, please note that 2019 is missing data for earlier months.**  
