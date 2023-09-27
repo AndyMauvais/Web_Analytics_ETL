@@ -12,13 +12,13 @@ I found my data source using Kaggle in the link provided above. The data contain
 Created the below questions that are commonly asked regarding the data available:  
   
 Questions to answer:  
-*How many users visited the website in 2020?  
-*Which months had the highest/lowest number of visitors?  
-*What is the trend in website traffic?  
-*What is the trend in revenue growth  
-*How much revenue was earned in 2020?  
-*How much more/less revenue was earned from 2019 to 2020? ($ and %)  
-*Which month had the highest conversion rate?  
+* How many users visited the website in 2020?  
+* Which months had the highest/lowest number of visitors?  
+* What is the trend in website traffic?  
+* What is the trend in revenue growth  
+* How much revenue was earned in 2020?  
+* How much more/less revenue was earned from 2019 to 2020? ($ and %)  
+* Which month had the highest conversion rate?  
   
 ### SQL Database Setup
 Using SQLite3 as it is small and personal after extracting and transforming data in Python.
