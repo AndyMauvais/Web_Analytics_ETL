@@ -36,3 +36,4 @@ https://public.tableau.com/app/profile/andy.mauvais/viz/WebsiteAnalytics_ETL/201
 	* $3,693,194 dollars was earned in 2020.  
 * How much more/less revenue was earned from 2019 to 2020? ($ and %)  
 	* $1.75M at a 180% increase.
+  
