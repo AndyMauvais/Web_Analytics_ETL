@@ -10,8 +10,6 @@ I found my data source using Kaggle in the link provided above. The data contain
   
 ### Questions to Answer  
 Created the below questions that are commonly asked regarding the data available:  
-  
-Questions to answer:  
 * How many users visited the website in 2020?  
 * Which months had the highest/lowest number of visitors?  
 * What is the trend in website traffic?  
