@@ -2,7 +2,7 @@
 A short self-guided project to display the ETL process from CSV data to database storage to visualization.   
   
 ### Web-Analytics Dataset from:   
-(https://www.kaggle.com/datasets/afranur/web-analytics-dataset/)  
+https://www.kaggle.com/datasets/afranur/web-analytics-dataset/
   
 ## Project Steps  
 ### Setting Project Scope & Data Source  
