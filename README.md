@@ -19,8 +19,9 @@ Created the below questions that are commonly asked regarding the data available
   
 ### Transform Data
 Code can be found in CSVToDatabase.py
-Loaded the data in a Python environment within Visual Studio Code. Connected SQLite3 as it is small and personal after extracting and transforming data in Python.
-
+Loaded the data in a Python environment within Visual Studio Code. Connected SQLite3 as it is small and personal after extracting and transforming data in Python.  
+![Portion of Python Code](Images/PythonETL.png)  
+  
 ### Create Visualization  
 Created a visualization that answers the questions for this project.  
 https://public.tableau.com/app/profile/andy.mauvais/viz/WebsiteAnalytics_ETL/2019-2020Web_Analytics      
